@@ -1,5 +1,5 @@
 # WEB COLLAGE
-## The Birth of Venus 
+## "The Birth of Venus" 
 
 HTML and CSS Assignment for Drawing On the Web :art: :computer: 
 
